@@ -2,9 +2,11 @@
 config.py
 __pycache__/*
 
-# Jupyter files
-.ipynb_checkpoints/*
+
+# Jupyter Checkpoints
 *.ipynb
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 
 # Data files
 execution_output.xlsx
