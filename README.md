@@ -1,8 +1,8 @@
 # pandas-challenge
 ## Pandas Homework - Pandas, Pandas, Pandas
 ### HeroesOfPymoli
-HeroesOfPymoli.ipynb
-Resources - purchase_data.csv
+1. HeroesOfPymoli.ipynb
+2. Resources - purchase_data.csv
 
 ---
 ### Copyright
