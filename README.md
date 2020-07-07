@@ -2,7 +2,8 @@
 ## Pandas Homework - Pandas, Pandas, Pandas
 ### HeroesOfPymoli
 1. HeroesOfPymoli.ipynb
-2. Resources - purchase_data.csv
+2. Summary.txt
+3. Resources - purchase_data.csv
 
 ---
 ### Copyright
