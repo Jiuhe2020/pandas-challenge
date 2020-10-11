@@ -37,13 +37,14 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Average Purchase Price
   - Total Purchase Value
   - Average Purchase Total per Person by Gender
-![]()
+![Purchasing Analysis Age](https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Purchasing%20Analysis%20by%20Age.png)
 8. Top Spenders
 - Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
   - SN
   - Purchase Count
   - Average Purchase Price
   - Total Purchase Value
+![Top Spenders](https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Top%20Spenders.png)
 9. Most Popular Items
 - Identify the 5 most popular items by purchase count, then list (in a table):
   - Item ID
@@ -51,6 +52,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Purchase Count
   - Item Price
   - Total Purchase Value
+![Most Popular Items](https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Popular%20Items.png)
 10. Most Profitable Items
 - Identify the 5 most profitable items by total purchase value, then list (in a table):
   - Item ID
@@ -58,6 +60,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Purchase Count
   - Item Price
   - Total Purchase Value
+![Most Profitable Items](https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Profitable%20Items.png)
 
 ## List of Files in HeroesOfPymoli
 1. HeroesOfPymoli.ipynb: the main script to run for analysis with the viewable Data Frames
