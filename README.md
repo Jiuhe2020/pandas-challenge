@@ -1,7 +1,7 @@
 # HeroesOfPymoli
 ## Challenge Instructions
 This project utilizes the Pandas Library and the Jupyter Notebook to analyze the data for the most recent fantasy game Heroes of Pymoli from an independent gaming company. A report was generated based on the game's purchasing data and a written description of three observable trends was included.
-
+![Fantasy](https://i.dlpng.com/static/png/6983171_preview.png)
 ## Final Report
 1. Player Count
 - Total Number of Players \
