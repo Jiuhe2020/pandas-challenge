@@ -5,6 +5,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
 ## Final Report
 1. Player Count
 - Total Number of Players
+![Total Players](https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Total%20Players.png)
 2. Purchasing Analysis (Total)
 - Number of Unique Items
 - Average Purchase Price
