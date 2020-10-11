@@ -11,6 +11,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
 - Average Purchase Price
 - Total Number of Purchases
 - Total Revenue
+![Summary Data Frame](https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Summary%20Data%20Frame.png)
 3. Gender Demographics
 - Percentage and Count of Male Players
 - Percentage and Count of Female Players
