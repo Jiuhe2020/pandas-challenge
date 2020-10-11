@@ -23,19 +23,21 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Average Purchase Price
   - Total Purchase Value
   - Average Purchase Total per Person by Gender
- ![]
+![Purchasing Analysis Gender](https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Purchasing%20Analysis%20by%20Gender.png)
 5. Age Demographics
 - The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
   - Purchase Count
   - Average Purchase Price
   - Total Purchase Value
   - Average Purchase Total per Person by Age Group
+![Age Demographics](https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Age%20Demographics.png)
 6. Purchasing Analysis (Age)
 - The below each broken by Age
   - Purchase Count
   - Average Purchase Price
   - Total Purchase Value
   - Average Purchase Total per Person by Gender
+![]()
 8. Top Spenders
 - Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
   - SN
