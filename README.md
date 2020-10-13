@@ -16,7 +16,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
 - Total Number of Purchases
 - Total Revenue
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Summary%20Data%20Frame.png" height="40%" width="40%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Summary%20Data%20Frame.png" height="50%" width="50%">
 </p>
 
 3. Gender Demographics
@@ -34,7 +34,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Total Purchase Value
   - Average Purchase Total per Person by Gender
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Purchasing%20Analysis%20by%20Gender.png" height="40%" width="40%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Purchasing%20Analysis%20by%20Gender.png" height="50%" width="50%">
 </p>
 
 5. Age Demographics
@@ -54,7 +54,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Total Purchase Value
   - Average Purchase Total per Person by Gender
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Purchasing%20Analysis%20by%20Age.png" height="40%" width="40%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Purchasing%20Analysis%20by%20Age.png" height="50%" width="50%">
 </p>
 
 7. Top Spenders
@@ -64,7 +64,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Average Purchase Price
   - Total Purchase Value
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Top%20Spenders.png" height="40%" width="40%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Top%20Spenders.png" height="50%" width="50%">
 </p>
 
 8. Most Popular Items
@@ -75,7 +75,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Item Price
   - Total Purchase Value
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Popular%20Items.png" height="40%" width="40%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Popular%20Items.png" height="50%" width="50%">
 </p>
 
 9. Most Profitable Items
@@ -86,7 +86,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Item Price
   - Total Purchase Value
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Profitable%20Items.png" height="40%" width="40%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Profitable%20Items.png" height="50%" width="50%">
 </p>
 
 ## List of Content
