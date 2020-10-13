@@ -63,7 +63,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Total Purchase Value
 ![Most Profitable Items](https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Profitable%20Items.png)
 
-## List of Files in HeroesOfPymoli
+## List of Content
 1. HeroesOfPymoli.ipynb: the main script to run for analysis with the viewable Data Frames
 2. Summary.txt: a written description of three observable trends based on the data
 3. Resources/purchase_data.csv: the game's purchasing data
