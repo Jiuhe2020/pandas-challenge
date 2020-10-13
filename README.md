@@ -75,7 +75,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Item Price
   - Total Purchase Value
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Popular%20Items.png height="40%" width="40%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Popular%20Items.png" height="40%" width="40%">
 </p>
 
 10. Most Profitable Items
@@ -86,7 +86,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Item Price
   - Total Purchase Value
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Profitable%20Items.png height="40%" width="40%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Profitable%20Items.png" height="40%" width="40%">
 </p>
 
 ## List of Content
