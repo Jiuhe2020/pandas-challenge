@@ -16,7 +16,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
 - Total Number of Purchases
 - Total Revenue
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Summary%20Data%20Frame.png" height="75%" width="75%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Summary%20Data%20Frame.png" height="80%" width="80%">
 </p>
 
 3. Gender Demographics
@@ -24,7 +24,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
 - Percentage and Count of Female Players
 - Percentage and Count of Other / Non-Disclosed
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Gender%20Demographics.png" height="40%" width="40%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Gender%20Demographics.png" height="50%" width="50%">
 </p>
 
 4. Purchasing Analysis (Gender)
@@ -54,7 +54,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Total Purchase Value
   - Average Purchase Total per Person by Gender
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Purchasing%20Analysis%20by%20Age.png" height="75%" width="75%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Purchasing%20Analysis%20by%20Age.png" height="80%" width="80%">
 </p>
 
 7. Top Spenders
@@ -75,7 +75,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Item Price
   - Total Purchase Value
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Popular%20Items.png" height="75%" width="75%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Popular%20Items.png" height="80%" width="80%">
 </p>
 
 9. Most Profitable Items
@@ -86,7 +86,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Item Price
   - Total Purchase Value
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Profitable%20Items.png" height="75%" width="75%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Profitable%20Items.png" height="80%" width="80%">
 </p>
 
 ## List of Content
