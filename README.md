@@ -57,7 +57,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Purchasing%20Analysis%20by%20Age.png" height="40%" width="40%">
 </p>
 
-8. Top Spenders
+7. Top Spenders
 - Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
   - SN
   - Purchase Count
@@ -67,7 +67,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Top%20Spenders.png" height="40%" width="40%">
 </p>
 
-9. Most Popular Items
+8. Most Popular Items
 - Identify the 5 most popular items by purchase count, then list (in a table):
   - Item ID
   - Item Name
@@ -78,7 +78,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Most%20Popular%20Items.png" height="40%" width="40%">
 </p>
 
-10. Most Profitable Items
+9. Most Profitable Items
 - Identify the 5 most profitable items by total purchase value, then list (in a table):
   - Item ID
   - Item Name
