@@ -7,7 +7,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
 1. Player Count
 - Total Number of Players
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Total%20Players.png" height="40%" width="40%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Total%20Players.png" height="20%" width="20%">
 </p>
                                                                                                                          
 2. Purchasing Analysis (Total)
