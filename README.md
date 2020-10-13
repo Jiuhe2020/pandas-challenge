@@ -16,7 +16,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
 - Total Number of Purchases
 - Total Revenue
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Summary%20Data%20Frame.png" height="60%" width="60%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Summary%20Data%20Frame.png" height="75%" width="75%">
 </p>
 
 3. Gender Demographics
@@ -34,7 +34,7 @@ This project utilizes the Pandas Library and the Jupyter Notebook to analyze the
   - Total Purchase Value
   - Average Purchase Total per Person by Gender
 <p align="center">
-  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Purchasing%20Analysis%20by%20Gender.png" height="75%" width="75%">
+  <img src="https://github.com/Jiuhe2020/pandas-challenge/blob/master/images/Purchasing%20Analysis%20by%20Gender.png" height="80%" width="80%">
 </p>
 
 5. Age Demographics
